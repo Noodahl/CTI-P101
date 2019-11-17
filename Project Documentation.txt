@@ -1,0 +1,11 @@
+========== CTI P101 ===============
+Example program to demonstrate a SIMPLSharp equivalent of the CTI-P101 program.
+
+The intent is to provide a basic example program to demonstrate the capabilities of SIMPL# Pro and also act as a working example program of a quasi- real world exercise.
+
+The system is written using basic C# constructs, to make it easier to follow.
+
+This example program will be posted as an online help article and is passed around in the SIMPLSharp/ SIMPL Sharp Pro class.
+
+
+
